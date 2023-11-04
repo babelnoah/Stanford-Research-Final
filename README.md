@@ -1,27 +1,15 @@
 # Final Stanford Research Files
 
-<table>
-  <tr>
-    <!-- Text cell -->
-    <td>
-      <h3>Bass Biology Research Building</h3>
-      <p>Location: Marcus Feldman Lab</p>
-      <img src="https://news.stanford.edu/wp-content/uploads/2018/10/bassbiology_2445.jpg" width="20%" height="20%">
-      <br><br>
-      Herein, I prove the existence of convergent genotype polymorphisms in the two-locus, two-allele model with random recombination and random fitness. See research paper attached (published in PLOS) for more details.
-      <br><br>
-      Click on the image to the right to download the paper titled "Stable Equilibria under Random Fitness and Recombination Rates". If the image doesn't work, you can also download the document directly using the link below:
-      <br><br>
-      <a href="https://github.com/babelnoah/Stanford-Research-Final/files/13255869/PLOS__Stable_Equilibria_under_Random_Fitness_and_Recombination_Rates.pdf">Download Paper</a>
-    </td>
-    <!-- Image cell -->
-    <td valign="top">
-      <a href="https://github.com/babelnoah/Stanford-Research-Final/files/13255869/PLOS__Stable_Equilibria_under_Random_Fitness_and_Recombination_Rates.pdf">
-        <img src="https://github.com/babelnoah/Stanford-Research-Final/assets/114769700/a756739d-e3e7-46c1-a37f-d3ff7c86835d" alt="Specification Document" width="100%"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="right">
+  <h3>Bass Biology Research Building</h3>
+  <p>Location: Marcus Feldman Lab</p>
+  <img src="https://news.stanford.edu/wp-content/uploads/2018/10/bassbiology_2445.jpg" width="20%" height="20%">
+</div>
+<div style="clear: both;"></div>
+
+Herein, I prove the existence of convergent genotype polymorphisms in the two-locus, two-allele model with random recombination and random fitness. Use the link below to download my research paper attached (entitled "Stable Equilibria under Random Fitness and Recombination Rates," published in PLOS) for more details:
+
+<a href="https://github.com/babelnoah/Stanford-Research-Final/files/13255869/PLOS__Stable_Equilibria_under_Random_Fitness_and_Recombination_Rates.pdf">Download Paper</a>
 
 ## Relevant Figures Generated
 <table>
